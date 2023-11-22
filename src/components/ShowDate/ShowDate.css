@@ -1,0 +1,16 @@
+.cardOfDate{
+
+        margin: 10;
+        padding-bottom: 10;
+        border-radius: 10;
+        border-width: 1;
+        text-align: 'center';
+        border-color: rgb(185, 105, 105);
+        background-color: rgb(124, 212, 168);
+        width: 350px;
+
+}
+.spanOfAllCards{
+    //background-color: rgb(233, 164, 206); 
+    align-items: center;
+}
